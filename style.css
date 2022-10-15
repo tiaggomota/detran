@@ -51,4 +51,11 @@ h1 {
     border-radius: 1em;
 }
 
+footer {
+    position: relative;
+    top: 12.5em;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+}
 
